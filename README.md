@@ -1,3 +1,3 @@
-# facebookWannabe2
+# FoodSpace
 
 npm install to get packages
